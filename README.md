@@ -66,31 +66,18 @@
 
 </div>
 <br><br>    
--------
-<div style="display: flex;flex-direction:row; align-items: center;justify-content:space-between; height:132px; width:100%">
-<span style="width: 50%;">
-        <img width:85% src="https://github-readme-stats.vercel.app/api?username=vatsalyagautam&show_icons=true&locale=en" alt="GitHub Stats" />
-    </span>
-<span style="width: 50%;">
-        <img width:85%  src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsalyagautam&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 
-    
-  </span>
-
-
-  
-</div>
 
 <markdown-accessiblity-table data-catalyst="">
-  <table>
+  <table style="width: 100%; background-color: #1e1e1e; color: white;">
     <thead>
       <tr>
-        <th>
+        <th style="padding: 10px;">
           <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=vatsalyagautam&show_icons=true&locale=en">
             <img src="https://github-readme-stats.vercel.app/api?username=vatsalyagautam&show_icons=true&locale=en" alt="GitHub Stats" style="max-width: 100%;" />
           </a>
         </th>
-        <th>
+        <th style="padding: 10px;">
           <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api/top-langs?username=vatsalyagautam&show_icons=true&locale=en&layout=compact">
             <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsalyagautam&show_icons=true&locale=en&layout=compact" alt="GitHub Streak" style="max-width: 100%;" />
           </a>
@@ -99,7 +86,8 @@
     </thead>
   </table>
 </markdown-accessiblity-table>
--------
+
+
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg"/>
 
 <img width="100%" src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966"/>
