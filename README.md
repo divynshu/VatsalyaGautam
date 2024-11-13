@@ -71,7 +71,7 @@
   <table style="width: 100%; background-color: #1e1e1e; color: white; table-layout: fixed;">
     <thead>
       <tr>
-        <th style="padding: 20px; text-align: center;">
+        <th style="padding: 30px; text-align: center;">
           <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=vatsalyagautam&show_icons=true&locale=en">
             <img src="https://github-readme-stats.vercel.app/api?username=vatsalyagautam&show_icons=true&locale=en" alt="GitHub Stats" style="width: 100%; height: auto; object-fit: contain;" />
           </a>
