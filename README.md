@@ -8,6 +8,8 @@
 
 - 🌱 I’m currently learning **React.js**
 
+- 💬 Ask me about **C++, React, Javascript**
+
 - 👯 I’m looking to collaborate on **on open-source projects related to Web Development**
 
 - 👀 I’m interested in **Web Development, Blockchain, and Data Structures & Algorithms (DSA)**
