@@ -69,10 +69,10 @@
 -------
 <div style="display: flex;flex-direction:row; align-items: center;justify-content:center; height:132px; width:100%">
 <span style="width: 50%;">
-        <img height = 242px src="https://github-readme-stats.vercel.app/api?username=vatsalyagautam&show_icons=true&locale=en" alt="GitHub Stats" />
+        <img width:85% src="https://github-readme-stats.vercel.app/api?username=vatsalyagautam&show_icons=true&locale=en" alt="GitHub Stats" />
     </span>
 <span style="width: 50%;">
-        <img height= 258px  src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsalyagautam&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+        <img width:85% x  src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsalyagautam&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 
     
   </span>
