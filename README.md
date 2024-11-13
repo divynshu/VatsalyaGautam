@@ -67,12 +67,12 @@
 </div>
 <br><br>    
 -------
-<div style="display: flex;flex-direction:row; align-items: center;justify-content:center; height:132px; width:100%">
+<div style="display: flex;flex-direction:row; align-items: center;justify-content:space-between; height:132px; width:100%">
 <span style="width: 50%;">
         <img width:85% src="https://github-readme-stats.vercel.app/api?username=vatsalyagautam&show_icons=true&locale=en" alt="GitHub Stats" />
     </span>
 <span style="width: 50%;">
-        <img width:85% x  src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsalyagautam&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+        <img width:85%  src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsalyagautam&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 
     
   </span>
