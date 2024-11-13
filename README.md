@@ -69,7 +69,7 @@
 
 <div style="display: flex; gap: 10px; align-items: center;">
   
-    <div style="width: 264px; height: 124px; border: 1px solid #ccc; padding: 5px; border-radius: 8px;">
+  <div style="width: 264px; height: 124px; border: 1px solid #ccc; padding: 5px; border-radius: 8px;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsalyagautam&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="264" height="124" />
     </div>
 
