@@ -68,13 +68,16 @@
 <br><br>    
 
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; background-color: #121212; padding: 20px; border-radius: 10px;">
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 10px; padding: 10px; max-width: 800px; margin: auto;">
 
-  <div style="border: 1px solid #333; padding: 15px; border-radius: 8px; width: 400px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsalyagautam&show_icons=true&locale=en&layout=compact&bg_color=121212&title_color=ffffff&text_color=ffffff&border_color=333333" alt="Most Used Languages" style="width: 100%; border-radius: 5px;" />
+    <!-- Most Used Languages -->
+  <div style="flex: 1; border: 1px solid #ccc; padding: 10px; border-radius: 8px; background-color: #f8f9fa;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsalyagautam&show_icons=true&locale=en&layout=compact&theme=default" alt="Most Used Languages" style="width: 100%; max-width: 350px;" />
     </div>
-<div style="border: 1px solid #333; padding: 15px; border-radius: 8px; width: 400px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=vatsalyagautam&show_icons=true&locale=en&bg_color=121212&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=333333" alt="GitHub Stats" style="width: 100%; border-radius: 5px;" />
+
+    <!-- GitHub Stats -->
+  <div style="flex: 1; border: 1px solid #ccc; padding: 10px; border-radius: 8px; background-color: #f8f9fa;">
+        <img src="https://github-readme-stats.vercel.app/api?username=vatsalyagautam&show_icons=true&locale=en&theme=default" alt="GitHub Stats" style="width: 100%; max-width: 350px;" />
     </div>
 
 </div>
