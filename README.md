@@ -81,6 +81,24 @@
   
 </div>
 
+<markdown-accessiblity-table data-catalyst="">
+  <table>
+    <thead>
+      <tr>
+        <th>
+          <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=vatsalyagautam&show_icons=true&locale=en">
+            <img src="https://github-readme-stats.vercel.app/api?username=vatsalyagautam&show_icons=true&locale=en" alt="GitHub Stats" style="max-width: 100%;" />
+          </a>
+        </th>
+        <th>
+          <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api/top-langs?username=vatsalyagautam&show_icons=true&locale=en&layout=compact">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsalyagautam&show_icons=true&locale=en&layout=compact" alt="GitHub Streak" style="max-width: 100%;" />
+          </a>
+        </th>
+      </tr>
+    </thead>
+  </table>
+</markdown-accessiblity-table>
 -------
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg"/>
 
