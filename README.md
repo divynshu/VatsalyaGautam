@@ -68,11 +68,11 @@
 <br><br>    
 -------
 <div style="display: flex;flex-direction:row; align-items: center;justify-content:center; height:132px; width:100%">
-<span style="width: 40%;">
-        <img width = 242px src="https://github-readme-stats.vercel.app/api?username=vatsalyagautam&show_icons=true&locale=en" alt="GitHub Stats" />
+<span style="width: 50%;">
+        <img height = 242px src="https://github-readme-stats.vercel.app/api?username=vatsalyagautam&show_icons=true&locale=en" alt="GitHub Stats" />
     </span>
-<span style="width: 40%; display:inline-block;">
-        <img width=258px  src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsalyagautam&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<span style="width: 50%;">
+        <img height= 258px  src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsalyagautam&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 
     
   </span>
