@@ -35,7 +35,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vatsalya17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vatsalya17" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/vatsalya17" target="blank"><img align="center" src="https://image.pngaaa.com/134/6179134-middle.png" alt="vatsalya17" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/vatsalya17" target="blank"><img align="center" src="https://media.licdn.com/dms/image/v2/C4E34AQEKBABiNR__eA/ugc-proxy-shrink_1280_800/ugc-proxy-shrink_1280_800/0/1599134270336?e=2147483647&v=beta&t=t9UpCvx8Q2p-7jaUW6uunclf8g-1qsJzvL13hsbyVH4" alt="vatsalya17" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vatsalya17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vatsalya17" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vatsalyagautam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vatsalyagautam" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/vatsalyaw63p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vatsalyaw63p" height="30" width="40" /></a>
