@@ -67,18 +67,21 @@
 </div>
 <br><br>    
 
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px; max-width: 800px; margin: auto;">
 
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 10px; padding: 10px; max-width: 800px; margin: auto;">
 
-    <!-- Most Used Languages -->
-  <div style="flex: 1; border: 1px solid #ccc; padding: 10px; border-radius: 8px; background-color: #f8f9fa;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsalyagautam&show_icons=true&locale=en&layout=compact&theme=default" alt="Most Used Languages" style="width: 100%; max-width: 350px;" />
-    </div>
+  <div style="flex: 1; border: 1px solid #ccc; padding: 10px; border-radius: 8px; filter: grayscale(100%);">
+        <a target="_blank" href="https://github-readme-stats.vercel.app/api?username=vatsalyagautam&show_icons=true&theme=default&rank_icon=percentile&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8">
+            <img src="https://github-readme-stats.vercel.app/api?username=vatsalyagautam&show_icons=true&theme=default&rank_icon=percentile&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8" alt="GitHub Stats" style="width: 100%; max-width: 350px;" />
+        </a>
+  </div>
 
-    <!-- GitHub Stats -->
-  <div style="flex: 1; border: 1px solid #ccc; padding: 10px; border-radius: 8px; background-color: #f8f9fa;">
-        <img src="https://github-readme-stats.vercel.app/api?username=vatsalyagautam&show_icons=true&locale=en&theme=default" alt="GitHub Stats" style="width: 100%; max-width: 350px;" />
-    </div>
+
+  <div style="flex: 1; border: 1px solid #ccc; padding: 10px; border-radius: 8px; filter: grayscale(100%);">
+        <a target="_blank" href="https://github-readme-streak-stats.herokuapp.com/?user=vatsalyagautam&theme=icegray&border_radius=8">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=vatsalyagautam&theme=icegray&border_radius=8" alt="GitHub Streak" style="width: 100%; max-width: 350px;" />
+        </a>
+  </div>
 
 </div>
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg"/>
