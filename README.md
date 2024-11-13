@@ -57,7 +57,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsalyagautam&show_icons=true&locale=en&layout=compact" alt="vatsalyagautam" /></p>
-
+<br/>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=vatsalyagautam&show_icons=true&locale=en" alt="vatsalyagautam" /></p>
-
+<br/>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vatsalyagautam&" alt="vatsalyagautam" /></p>
