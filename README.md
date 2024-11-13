@@ -68,14 +68,16 @@
 <br><br>    
 
 
-<div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsalyagautam&show_icons=true&locale=en&layout=compact" alt="vatsalyagautam" /></p> 
-<br/>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=vatsalyagautam&show_icons=true&locale=en" alt="vatsalyagautam" /></p>  
-<br/>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vatsalyagautam&" alt="vatsalyagautam" /></p> 
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; background-color: #121212; padding: 20px; border-radius: 10px;">
+
+  <div style="border: 1px solid #333; padding: 15px; border-radius: 8px; width: 400px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsalyagautam&show_icons=true&locale=en&layout=compact&bg_color=121212&title_color=ffffff&text_color=ffffff&border_color=333333" alt="Most Used Languages" style="width: 100%; border-radius: 5px;" />
+    </div>
+<div style="border: 1px solid #333; padding: 15px; border-radius: 8px; width: 400px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=vatsalyagautam&show_icons=true&locale=en&bg_color=121212&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=333333" alt="GitHub Stats" style="width: 100%; border-radius: 5px;" />
+    </div>
+
 </div>
-<br><br>
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg"/>
 
 <img src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966"/>
