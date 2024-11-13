@@ -76,6 +76,6 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vatsalyagautam&" alt="vatsalyagautam" /></p> 
 </div>
 <br><br>
-https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg"/>
 
 
