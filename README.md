@@ -72,14 +72,14 @@
   <table style="width: 100%; background-color: #1e1e1e; color: white;">
     <thead>
       <tr>
-        <th style="padding: 10px;">
+        <th style="padding: 20px; width: 50%; text-align: center;">
           <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=vatsalyagautam&show_icons=true&locale=en">
-            <img src="https://github-readme-stats.vercel.app/api?username=vatsalyagautam&show_icons=true&locale=en" alt="GitHub Stats" style="max-width: 100%;" />
+            <img src="https://github-readme-stats.vercel.app/api?username=vatsalyagautam&show_icons=true&locale=en" alt="GitHub Stats" style="max-width: 100%; height: auto;" />
           </a>
         </th>
-        <th style="padding: 10px;">
+        <th style="padding: 20px; width: 50%; text-align: center;">
           <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api/top-langs?username=vatsalyagautam&show_icons=true&locale=en&layout=compact">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsalyagautam&show_icons=true&locale=en&layout=compact" alt="GitHub Streak" style="max-width: 100%;" />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsalyagautam&show_icons=true&locale=en&layout=compact" alt="GitHub Streak" style="max-width: 100%; height: auto;" />
           </a>
         </th>
       </tr>
