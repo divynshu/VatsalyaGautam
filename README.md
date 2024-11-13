@@ -66,18 +66,22 @@
 
 </div>
 <br><br>    
+-------
+<div style="display: flex;flex-direction:column; align-items: center; height:132px; width:100%">
+<div style="width: 50%;display:inline-block">
+        <img src="https://github-readme-stats.vercel.app/api?username=vatsalyagautam&show_icons=true&locale=en" alt="GitHub Stats" />
+    </div>
+<div style="width: 50%; display:inline-block;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsalyagautam&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 
-<div style="display: flex; gap: 10px; align-items: center;">
+    
+  </div>
+
+
   
-  <div style="width: 264px; height: 124px; border: 1px solid #ccc; padding: 5px; border-radius: 8px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsalyagautam&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="264" height="124" />
-    </div>
-
-
-  <div style="width: 264px; height: 124px; border: 1px solid #ccc; padding: 5px; border-radius: 8px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=vatsalyagautam&show_icons=true&locale=en" alt="GitHub Stats" width="264" height="124" />
-    </div>
 </div>
+
+-------
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg"/>
 
 <img width="100%" src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966"/>
