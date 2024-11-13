@@ -58,8 +58,10 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsalyagautam&show_icons=true&locale=en&layout=compact" alt="vatsalyagautam" /></p> <img align="right" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsalyagautam&show_icons=true&locale=en&layout=compact" alt="vatsalyagautam" /></p> 
 <br/>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=vatsalyagautam&show_icons=true&locale=en" alt="vatsalyagautam" /></p>  <img align="right" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"/>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=vatsalyagautam&show_icons=true&locale=en" alt="vatsalyagautam" /></p>  
 <br/>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vatsalyagautam&" alt="vatsalyagautam" /></p>  <img align="right" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"/>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vatsalyagautam&" alt="vatsalyagautam" /></p> 
+<br/>
+<img align="left" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"/><img align="center" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"/> <img align="right" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"/>
