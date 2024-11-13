@@ -14,7 +14,7 @@
 
 - 👀 I’m interested in **Web Development, Blockchain, and Data Structures & Algorithms (DSA)**
 
-- 📫 How to reach me **vatsalyagautam@gmail.com**
+- 📫 Reach me @ **vatsalyagautam@gmail.com**
 
 - ⚡ Fun fact **I once tried debugging my code for hours, only to realize I forgot to save the file. Now, I make sure to save every great idea—literally and figuratively!**
 
