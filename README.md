@@ -28,7 +28,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vatsalya17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vatsalya17" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/vatsalya17" target="blank"><img align="center" src="https://www.svgrepo.com/show/305880/codechef.svg" alt="vatsalya17" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/vatsalya17" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-FIGm6QAiHXozjHAAcjvweYRVAjQ-xbX1nQ&s" alt="vatsalya17" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vatsalya17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vatsalya17" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vatsalyagautam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vatsalyagautam" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/vatsalyaw63p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vatsalyaw63p" height="30" width="40" /></a>
