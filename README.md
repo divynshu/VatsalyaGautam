@@ -73,12 +73,12 @@
       <tr>
         <th style="padding: 20px; text-align: center;">
           <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api/top-langs?username=vatsalyagautam&show_icons=true&locale=en&layout=compact">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsalyagautam&show_icons=true&locale=en&layout=compact" alt="GitHub Streak" style="width: 100%; height: 14em; object-fit: contain;" />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsalyagautam&show_icons=true&locale=en&layout=compact" alt="GitHub Streak" style="width: 28em; height: 14em; object-fit: contain;" />
           </a>
         </th>
         <th style="padding: 20px; text-align: center;">
           <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=vatsalyagautam&show_icons=true&locale=en">
-            <img src="https://github-readme-stats.vercel.app/api?username=vatsalyagautam&show_icons=true&locale=en" alt="GitHub Stats" style="width: 14em; height: 14em; object-fit: contain;" />
+            <img src="https://github-readme-stats.vercel.app/api?username=vatsalyagautam&show_icons=true&locale=en" alt="GitHub Stats" style="width: 100%; height: 14em; object-fit: contain;" />
           </a>
         </th>
       </tr>
