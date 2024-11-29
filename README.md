@@ -1,4 +1,4 @@
-![MasterHead](https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241114%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241114T150337Z&X-Amz-Expires=300&X-Amz-Signature=f9b554bb2375972883185f5fe9118e6ada456a9140675d482daf3cff6eebf813&X-Amz-SignedHeaders=host)
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D12AQHbRrXAR1JdAw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1709675654334?e=1738195200&v=beta&t=QxQkFCD_TCCUoJ6B9ehXCaHDo93-wJjeF8WDvSBC6ek)
 <h1 align="center">Hi <a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , I'm Vatsalya</h1>
 
 
