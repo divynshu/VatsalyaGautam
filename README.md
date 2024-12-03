@@ -19,7 +19,7 @@
 
 - 👯 I’m looking to collaborate on **on open-source projects related to Web Development**
 
-- 👀 I’m interested in **Web Development, Blockchain, and Data Structures & Algorithms (DSA)**
+- 👀 I’m interested in **Web Development, Blockchain, and DSA**
 
 - 📫 Reach me @ **vatsalyagautam@gmail.com**
 
