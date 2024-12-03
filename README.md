@@ -32,7 +32,7 @@
 </div>
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Socials and other profiles:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vatsalya17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vatsalya17" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/vatsalya17" target="blank"><img align="center" src="https://media.licdn.com/dms/image/v2/C4E34AQEKBABiNR__eA/ugc-proxy-shrink_1280_800/ugc-proxy-shrink_1280_800/0/1599134270336?e=2147483647&v=beta&t=t9UpCvx8Q2p-7jaUW6uunclf8g-1qsJzvL13hsbyVH4" alt="vatsalya17" height="30" width="30" /></a>
