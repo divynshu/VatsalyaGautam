@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
-[MasterHead](https://media.licdn.com/dms/image/v2/D4D12AQHbRrXAR1JdAw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1709675654334?e=1738195200&v=beta&t=QxQkFCD_TCCUoJ6B9ehXCaHDo93-wJjeF8WDvSBC6ek)
+<img src="https://media.licdn.com/dms/image/v2/D4D12AQHbRrXAR1JdAw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1709675654334?e=1738195200&v=beta&t=QxQkFCD_TCCUoJ6B9ehXCaHDo93-wJjeF8WDvSBC6ek">
 <h1 align="center">Hi <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48">, I'm Vatsalya</h1>
 
 
