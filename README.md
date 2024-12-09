@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **careertronics.in**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Django**
 
 - 💬 Ask me about **C++, React, Javascript**
 
