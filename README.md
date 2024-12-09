@@ -55,7 +55,7 @@
 	</tr>
 	<tr>
 		<td><strong>Frontend Development</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react&theme=dark"></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react&theme=dark"></td>
 	</tr>
 	<tr>
 		<td><strong>Backend Development</strong></td>
