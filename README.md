@@ -9,6 +9,14 @@
 <br>
 <img align="right" alt="Coding" width="450" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vatsalyagautam&label=Profile%20views&color=0e75b6&style=flat" alt="vatsalyagautam" /> </p>
+### Profile Views
+counting of visitors to this page in this section started from November 30, 2024
+
+<img src="https://count.getloli.com/get/@:vatsalyagautam?theme=gelbooru-h" alt=":name" />
+
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vatsalyagautam" width="auto"></img>
 
 - 🔭 I’m currently working on **careertronics.in**
 
