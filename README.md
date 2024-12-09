@@ -6,6 +6,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;DSA+Learner;MERN+Stack+Learner;IT+Enthusiast;Frontend+Developer;django+Learner;BlockChain+Enthusiast;Cloud+Developer;" alt="Typing SVG" />
 </p>
 <h3 align="center">A passionate FullStack developer from India</h3>
+<br>
 <img align="right" alt="Coding" width="450" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vatsalyagautam&label=Profile%20views&color=0e75b6&style=flat" alt="vatsalyagautam" /> </p>
 
