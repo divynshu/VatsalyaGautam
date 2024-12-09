@@ -32,13 +32,14 @@
 
 <div align="center">
 <h2 align='center'><i>Socials and Coding Profiles 💻</i></h2>
-<a href="https://linkedin.com/in/vatsalya17"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:vatsalyagautam@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
 <a href="https://www.codechef.com/users/vatsalya17" target="_blank"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
   <a href="https://leetcode.com/u/VatsalyaGautam/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /></a>
   <a href="https://www.hackerrank.com/profile/vatsalya17" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
   <a href="https://www.geeksforgeeks.org/user/vatsalyaw63p/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" /></a>
-
+<br>
+<a href="https://linkedin.com/in/vatsalya17"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:vatsalyagautam@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
 <br><br>
@@ -51,23 +52,45 @@
 		<td><img height=40 src="https://skillicons.dev/icons?i=cpp,c,java,py,js,latex&theme=dark"></td>
 	</tr>
 	<tr>
+		<td><strong>Frontend Development</strong></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react&theme=dark"></td>
+	</tr>
+	<tr>
+		<td><strong>Backend Development</strong></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=py,django&theme=dark"></td>
+	</tr>
+	<tr>
+	<tr>
 		<td><strong>Database Technologies</strong></td>
 		<td><img height=40 src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"></td>
 	</tr>
 	<tr>
-		<td><strong>Frontend Development</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react&theme=dark"></td>
+		<td><strong>Frameworks</strong></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=react,vite,django&theme=dark"></td>
 	</tr>
 	<tr>
-		<td><strong>Backend Development</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=django&theme=dark"></td>
+		<td><strong>Cloud Deployment</strong></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=aws&theme=dark"></td>
+	</tr>
+	<tr>
+		<td><strong>Hosting Services</strong></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=github,vercel,netlify&theme=dark"></td>
 	</tr>
 	<tr>
 		<td><strong>Developer Tools</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=git,github,vscode,idea,sublime&theme=dark"> <img style="object-fit:fill" height=40 src="https://i.ibb.co/YXhzhGC/Untitled-design-removebg-preview.png">
+	</td>
 	</tr>
 	<tr>
-		<td><strong>Operating Systems</strong></td>
+		<td><strong>Debugging Tools</strong></td>
+		<td> <img  src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"> <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"></td>
+	</tr>
+	<tr>
+		<td><strong>Collaboration Platforms</strong></td>
+		<td> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"></td>
+	</tr>
+	<tr>
+		<td><strong>Operating System</strong></td>
 		<td>
 		<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=F0F0F0">
 		</td>
@@ -103,6 +126,6 @@
 
 </div>
 
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
+
 
 
